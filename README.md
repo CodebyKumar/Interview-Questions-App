@@ -10,12 +10,23 @@ This is a web application that helps users prepare for technical interviews. It 
 
 ## Screenshots
 
-Here are some screenshots of the application:
+<table>
+  <tr>
+    <td><img src="app_screenshots/1.png" width="400"></td>
+    <td><img src="app_screenshots/2.png" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="app_screenshots/3.png" width="400"></td>
+    <td><img src="app_screenshots/4.png" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="app_screenshots/5.png" width="400"></td>
+  </tr>
+</table>
 
-![Screenshot 1](app_screenshots/Screenshot%202026-02-23%20at%208.21.18%E2%80%AFPM.png)
-![Screenshot 2](app_screenshots/Screenshot%202026-02-23%20at%208.22.04%E2%80%AFPM.png)
-![Screenshot 3](app_screenshots/Screenshot%202026-02-23%20at%208.22.36%E2%80%AFPM.png)
-![Screenshot 4](app_screenshots/Screenshot%202026-02-23%20at%208.23.17%E2%80%AFPM.png)
+## Tech Stack
+
+
 
 ## Tech Stack
 
