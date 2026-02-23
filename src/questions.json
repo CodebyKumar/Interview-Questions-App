@@ -1,0 +1,302 @@
+[
+    {
+        "id": "q1",
+        "role": "Backend Engineer",
+        "type": "Technical fundamentals",
+        "question": "Can you explain the difference between SQL and NoSQL databases and when you would choose one over the other?"
+    },
+    {
+        "id": "q2",
+        "role": "Frontend Engineer",
+        "type": "Technical fundamentals",
+        "question": "What is the Virtual DOM, and how does React use it to optimize rendering?"
+    },
+    {
+        "id": "q3",
+        "role": "Full Stack Developer",
+        "type": "Systems design",
+        "question": "How would you design a rate-limiting system for a public API?"
+    },
+    {
+        "id": "q4",
+        "role": "Full Stack Developer",
+        "type": "Systems design",
+        "question": "Describe the architecture of a real-time chat application using WebSockets."
+    },
+    {
+        "id": "q5",
+        "role": "Any Role",
+        "type": "Behavioral",
+        "question": "Tell me about a time you had a conflict with a teammate. How did you resolve it?"
+    },
+    {
+        "id": "q6",
+        "role": "Any Role",
+        "type": "Behavioral",
+        "question": "Describe a difficult technical challenge you faced and how you overcame it."
+    },
+    {
+        "id": "q7",
+        "role": "Backend Engineer",
+        "type": "Advanced Technical",
+        "question": "Explain the CAP theorem and how it influences your choice of a distributed database."
+    },
+    {
+        "id": "q8",
+        "role": "Backend Engineer",
+        "type": "Advanced Technical",
+        "question": "What are microservices, and what are the pros and cons of using this architecture?"
+    },
+    {
+        "id": "q9",
+        "role": "Frontend Engineer",
+        "type": "Technical fundamentals",
+        "question": "What is 'hoisting' in JavaScript, and how does it affect variable and function declarations?"
+    },
+    {
+        "id": "q10",
+        "role": "Frontend Engineer",
+        "type": "Advanced Technical",
+        "question": "Explain the concept of 'closures' in JavaScript and provide a practical use case."
+    },
+    {
+        "id": "q11",
+        "role": "Full Stack Developer",
+        "type": "Security",
+        "question": "What is Cross-Site Scripting (XSS), and how can you prevent it in a web application?"
+    },
+    {
+        "id": "q12",
+        "role": "Full Stack Developer",
+        "type": "Security",
+        "question": "Explain Cross-Site Request Forgery (CSRF) and the common strategies to mitigate it."
+    },
+    {
+        "id": "q13",
+        "role": "Data/ML Engineer",
+        "type": "Technical fundamentals",
+        "question": "What is the difference between supervised and unsupervised learning?"
+    },
+    {
+        "id": "q14",
+        "role": "Data/ML Engineer",
+        "type": "Advanced Technical",
+        "question": "How do you handle imbalanced datasets in a classification problem?"
+    },
+    {
+        "id": "q15",
+        "role": "Product Manager",
+        "type": "Product Sense",
+        "question": "How would you measure the success of a new feature for a social media platform?"
+    },
+    {
+        "id": "q16",
+        "role": "Product Manager",
+        "type": "Strategy",
+        "question": "If you were the PM for a music streaming service, how would you compete with Spotify?"
+    },
+    {
+        "id": "q17",
+        "role": "Backend Engineer",
+        "type": "Performance",
+        "question": "How would you optimize a slow database query in a high-traffic system?"
+    },
+    {
+        "id": "q18",
+        "role": "Frontend Engineer",
+        "type": "Performance",
+        "question": "What are some techniques for reducing the initial load time of a React application?"
+    },
+    {
+        "id": "q19",
+        "role": "Any Role",
+        "type": "Leadership",
+        "question": "Tell me about a time you mentored a junior developer. What was the outcome?"
+    },
+    {
+        "id": "q20",
+        "role": "Any Role",
+        "type": "Culture Fit",
+        "question": "Why do you specifically want to work at our company?"
+    },
+    {
+        "id": "q21",
+        "role": "Backend Engineer",
+        "type": "Technical fundamentals",
+        "question": "Explain the difference between a process and a thread. When would you use one over the other?"
+    },
+    {
+        "id": "q22",
+        "role": "Backend Engineer",
+        "type": "Advanced Technical",
+        "question": "What is 'Eventual Consistency' and how is it achieved in distributed systems?"
+    },
+    {
+        "id": "q23",
+        "role": "Frontend Engineer",
+        "type": "Technical fundamentals",
+        "question": "Compare and contrast 'Flexbox' and 'CSS Grid'. When should each be favored?"
+    },
+    {
+        "id": "q24",
+        "role": "Frontend Engineer",
+        "type": "Advanced Technical",
+        "question": "Describe how 'Hydration' works in the context of Server-Side Rendering (SSR)."
+    },
+    {
+        "id": "q25",
+        "role": "Full Stack Developer",
+        "type": "Systems design",
+        "question": "Design a URL shortening service like Bitly. Focus on scalability and high availability."
+    },
+    {
+        "id": "q26",
+        "role": "Full Stack Developer",
+        "type": "Security",
+        "question": "How does OAuth2 work? Walk me through the Authorization Code flow."
+    },
+    {
+        "id": "q27",
+        "role": "Data/ML Engineer",
+        "type": "Technical fundamentals",
+        "question": "Explain the bias-variance tradeoff in machine learning."
+    },
+    {
+        "id": "q28",
+        "role": "Data/ML Engineer",
+        "type": "Advanced Technical",
+        "question": "What is 'Overfitting', and what are three distinct techniques to prevent it?"
+    },
+    {
+        "id": "q29",
+        "role": "Product Manager",
+        "type": "Product Sense",
+        "question": "Pick a physical product you use daily. How would you improve its UX and why?"
+    },
+    {
+        "id": "q30",
+        "role": "Product Manager",
+        "type": "Analytical",
+        "question": "Our onboarding conversion rate dropped by 20% this week. How would you investigate the cause?"
+    },
+    {
+        "id": "q31",
+        "role": "Backend Engineer",
+        "type": "Database",
+        "question": "What is database indexing, and how does it improve search performance? What are the drawbacks?"
+    },
+    {
+        "id": "q32",
+        "role": "Frontend Engineer",
+        "type": "Frameworks",
+        "question": "Compare React's 'useEffect' and 'useLayoutEffect'. When is 'useLayoutEffect' necessary?"
+    },
+    {
+        "id": "q33",
+        "role": "Full Stack Developer",
+        "type": "Web Vitals",
+        "question": "What is Cumulative Layout Shift (CLS), and how can developers minimize it?"
+    },
+    {
+        "id": "q34",
+        "role": "Any Role",
+        "type": "Behavioral",
+        "question": "Give me an example of a time you were given feedback that you didn't agree with. How did you handle it?"
+    },
+    {
+        "id": "q35",
+        "role": "Any Role",
+        "type": "Soft Skills",
+        "question": "How do you stay up to date with the latest trends and technologies in your field?"
+    },
+    {
+        "id": "q36",
+        "role": "Backend Engineer",
+        "type": "API Design",
+        "question": "What are the key principles of RESTful API design? Compare REST with GraphQL."
+    },
+    {
+        "id": "q37",
+        "role": "Frontend Engineer",
+        "type": "State Management",
+        "question": "Discuss the pros and cons of using Context API vs. Redux for global state in React."
+    },
+    {
+        "id": "q38",
+        "role": "Full Stack Developer",
+        "type": "Testing",
+        "question": "Explain the 'Testing Pyramid'. Why is it favored over testing every path with end-to-end tests?"
+    },
+    {
+        "id": "q39",
+        "role": "Data/ML Engineer",
+        "type": "Statistics",
+        "question": "What is the P-value, and how is it used in hypothesis testing?"
+    },
+    {
+        "id": "q40",
+        "role": "Full Stack Developer",
+        "type": "Cloud",
+        "question": "What is 'Serverless' computing? When is it a better choice than managing your own servers?"
+    },
+    {
+        "id": "q41",
+        "role": "Backend Engineer",
+        "type": "Advanced Technical",
+        "question": "Explain 'Deadlocks' in operating systems and how they can be prevented or detected."
+    },
+    {
+        "id": "q42",
+        "role": "Frontend Engineer",
+        "type": "Advanced Technical",
+        "question": "Explain 'Prototypal Inheritance' in JavaScript. How does it differ from Class-based inheritance?"
+    },
+    {
+        "id": "q43",
+        "role": "Product Manager",
+        "type": "Product Sense",
+        "question": "How would you design an elevator system for a 100-story building?"
+    },
+    {
+        "id": "q44",
+        "role": "Any Role",
+        "type": "Behavioral",
+        "question": "Tell me about a time you failed. What did you learn from the experience?"
+    },
+    {
+        "id": "q45",
+        "role": "Any Role",
+        "type": "Soft Skills",
+        "question": "How do you handle tight deadlines under high pressure?"
+    },
+    {
+        "id": "q46",
+        "role": "Backend Engineer",
+        "type": "Security",
+        "question": "How would you securely store user passwords in a database?"
+    },
+    {
+        "id": "q47",
+        "role": "Frontend Engineer",
+        "type": "Accessibility",
+        "question": "What is ARIA, and why is it important for web accessibility?"
+    },
+    {
+        "id": "q48",
+        "role": "Full Stack Developer",
+        "type": "Performance",
+        "question": "Explain the concept of 'Debouncing' and 'Throttling' in JavaScript."
+    },
+    {
+        "id": "q49",
+        "role": "Data/ML Engineer",
+        "type": "Deep Learning",
+        "question": "What is a 'Transformer' architecture, and why has it revolutionized NLP?"
+    },
+    {
+        "id": "q50",
+        "role": "Any Role",
+        "type": "Culture Fit",
+        "question": "What kind of work environment do you thrive in most?"
+    }
+]
